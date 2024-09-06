@@ -1,0 +1,19 @@
+{
+  "Email": "",
+  "Apps": [
+    {
+      "Name": "App",
+      "Path": "",
+      "Local": {
+        "ConnectionStrings.DefaultConnection": "",
+        "CryptBaseKey.EncryptionIV": "",
+        "CryptBaseKey.EncryptionKey": ""
+      },
+      "Stage": {
+        "ConnectionStrings.DefaultConnection": "",
+        "CryptBaseKey.EncryptionIV": "",
+        "CryptBaseKey.EncryptionKey": ""
+      }
+    }
+  ]
+}
