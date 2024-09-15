@@ -16,5 +16,5 @@ if %errorlevel% equ 0 (
     echo Ocorreu um erro ao copiar os arquivos.
 )
 
-"Executor de Projetos.exe"
+"APIRunner.exe"
 endlocal
