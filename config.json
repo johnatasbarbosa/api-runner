@@ -1,5 +1,6 @@
 {
   "Email": "",
+  "Repository": "https://github.com/johnatasbarbosa/api-runner.git",
   "Apps": [
     {
       "Name": "App",
