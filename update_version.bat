@@ -5,7 +5,7 @@ timeout /t 1 /nobreak >nul
 
 set "origem=api-runner"
 
-set "destino=teste"
+set "destino="
 
 xcopy /s /y "%origem%\*" "%destino%\"
 
