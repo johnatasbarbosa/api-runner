@@ -3,15 +3,13 @@ setlocal
 
 timeout /t 1 /nobreak >nul
 
-set "origem=api-runner"
-
-xcopy /y "%origem%\*"
+git reset --hard
+git pull
 
 if %errorlevel% equ 0 (
-    rmdir /s /q "%origem%"
-    echo Arquivos copiados e arquivos antigos removidos com sucesso.
+    echo git pull executado com sucesso.
 ) else (
-    echo Ocorreu um erro ao copiar os arquivos.
+    echo Ocorreu um erro ao executar git pull.
 )
 
 "APIRunner.exe"
