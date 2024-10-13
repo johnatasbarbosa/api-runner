@@ -5,9 +5,7 @@ timeout /t 1 /nobreak >nul
 
 set "origem=api-runner"
 
-set "destino="
-
-xcopy /s /y "%origem%\*" "%destino%\"
+xcopy /y "%origem%\*"
 
 if %errorlevel% equ 0 (
     rmdir /s /q "%origem%"
