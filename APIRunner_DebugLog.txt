@@ -1,0 +1,24 @@
+==================================================
+APIRunner Log Session Started: 22/04/2025 15:48:33
+Log File: C:\Users\yure5\dev\GITHUB\ApiRunner\ApiRunnerSource\src\bin\Release\net8.0-windows\win-x64\publish\APIRunner_DebugLog.txt
+OS Version: Microsoft Windows NT 10.0.26100.0
+User: yure5
+.NET Runtime: 8.0.15
+==================================================
+Trace logging initialized and directed to file.
+Logging configured. Initializing application...
+Running main form (Form1)...
+!!! CoreWebView2_WebResourceRequested - Resource NOT FOUND: Executor_de_Projetos.WebContent.dist.favicon.ico
+Application exited normally.
+==================================================
+APIRunner Log Session Started: 22/04/2025 15:54:17
+Log File: C:\Users\yure5\dev\GITHUB\ApiRunner\ApiRunnerProd\api-runner\APIRunner_DebugLog.txt
+OS Version: Microsoft Windows NT 10.0.26100.0
+User: yure5
+.NET Runtime: 8.0.15
+==================================================
+Trace logging initialized and directed to file.
+Logging configured. Initializing application...
+Running main form (Form1)...
+!!! CoreWebView2_WebResourceRequested - Resource NOT FOUND: Executor_de_Projetos.WebContent.dist.favicon.ico
+Application exited normally.
