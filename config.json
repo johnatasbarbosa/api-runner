@@ -1,10 +1,12 @@
 {
   "Email": "",
+  "CompactInterface": true,
   "Repository": "https://github.com/johnatasbarbosa/api-runner.git",
   "Apps": [
     {
       "Name": "App",
       "Path": "",
+      "Environment": null,
       "Local": {
         "ConnectionStrings.DefaultConnection": "",
         "CryptBaseKey.EncryptionIV": "",
@@ -14,7 +16,9 @@
         "ConnectionStrings.DefaultConnection": "",
         "CryptBaseKey.EncryptionIV": "",
         "CryptBaseKey.EncryptionKey": ""
-      }
+      },
+      "Homolog": {},
+      "Prod": {}
     }
   ]
 }
